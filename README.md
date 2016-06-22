@@ -7,32 +7,32 @@
  |______/___|_|\___/|_|   
  ```
 
- Description
+ #Description
  -----------
  A Script that lets the user us Tor with exit nodes or without on different devices easily.
 
- Documentation
+ #Documentation
  -------------
 
- Global Installs Needed
+ #Global Installs Needed
  ----------------------
  brew install tor -> duh
 
 
- Darwin - TESTED -> OS X Yosemite 10.10.5
+ #Darwin - TESTED -> OS X Yosemite 10.10.5
  ----------------------------------------------------
- Installs Needed
- ---------------
+ #Installs Needed
  brew install coreutils -> gtimeout command
 
 
- Linux - TESTED -> Kalil Linux Debian 64-bit
+ #Linux - TESTED -> Kalil Linux Debian 64-bit
  -------------------------------------------
+ #Installs Needed
  Nothing
 
 
 
- To-Dos
+ #To-Dos
  ------
  * Check if tor is installed if not ask user if they want to install
  * Check if everything need to be installed for user OS is installed if 
