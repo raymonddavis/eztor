@@ -13,7 +13,11 @@
  
  #How to Use
  -----------
- Simply Install whatever needs to be installed for your OS. Then run ./eztor.sh start to begin the script. You can end the script by running ./eztor.sh stop in another window. If you are not jumping you can end the program by CTRL^ + C at anytime.
+ Simply Install whatever needs to be installed for your OS. 
+ Then run ./eztor.sh start to begin the script. 
+ You can end the script by running ./eztor.sh stop in another window. 
+ If you are not jumping you can end the program by CTRL + C at anytime.
+ If you happen to use CTRL + Z to end the script run ./eztor.sh stop after that to change your proxy settings back to normal.
 
  #Documentation
  -------------
